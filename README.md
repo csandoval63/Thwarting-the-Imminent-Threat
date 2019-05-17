@@ -23,5 +23,5 @@ Best way is to disable SMB on the firewall.
 Windows update or a manual hotfix patch provided by the vendor
 
 ### Documentation
-Created by C. Sandoval
-Edited by J. Hyun
+-Created by C. Sandoval
+-Edited by J. Hyun
